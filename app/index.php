@@ -6,6 +6,10 @@ $html = file_get_html('google.htm');
 //$html = file_get_html('youtube.htm');
 //$html = file_get_html('Product.ibatis.xml');
 
+aaaaaaaaaaaaaa
+aaaaaaaaaaaaa
+aaaaaaaaaa
+
 
 $lang = '';
 $l=$html->find('html', 0);
